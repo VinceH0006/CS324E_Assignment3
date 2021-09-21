@@ -1,0 +1,8 @@
+Project description:
+
+Python code, written by Vincent Hochstein. Trims the initial text file for processing
+and stores the entire text in an array, separating elements based on wherever spaces occur.
+
+Generates the three text files for further visual processing by other group members using a
+series of other arrays storing all words, unique words, and word frequency by cross referencing
+one to the other.
